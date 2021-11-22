@@ -20,7 +20,7 @@ $ git checkout <NomeDaBranch>
 ```
 $ git remote -v
 ```
-s
+
 ## Vscode ( abrir terminal - Ctrl + shif + crase)
 ## Criando token pessoal ( settings / develop settings)
 
