@@ -1,4 +1,4 @@
-# Hans on de Gitflow
+# Hands on de Gitflow
 
 ## Clonar um repositório
 ```
@@ -21,5 +21,10 @@ $ git checkout <NomeDaBranch>
 $ git remote -v
 ```
 ## Vscode ( abrir terminal - Ctrl + shif + crase)
+## Criando token pessoal ( settings / develop settings)
+
+
+
+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
 
 
